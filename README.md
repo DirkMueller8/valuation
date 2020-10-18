@@ -12,3 +12,8 @@ The objective of this questionnaire software is to track the output of clinical 
 
 Inline-style: 
 ![alt text](https://github.com/DirkMueller8/valuation/blob/master/snapshot.png "Snapshot of entry form")
+
+When moving to the next form the following input mask is shown:
+
+Inline-style: 
+![alt text](https://github.com/DirkMueller8/valuation/blob/master/snapshot_1.png "Snapshot of input mask")
