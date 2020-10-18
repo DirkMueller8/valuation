@@ -17,3 +17,5 @@ When moving to the next form the following input mask is shown:
 
 Inline-style: 
 ![alt text](https://github.com/DirkMueller8/valuation/blob/master/snapshot_1.png "Snapshot of input mask")
+
+After filling in yet another form all the data will be stored in an Excel worksheet for further processing.
