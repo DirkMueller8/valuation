@@ -23,4 +23,8 @@ When moving to the next form the following input mask is shown:
 
 *Fig 2: Snapshot of input mask for items that the partner brings to the collaboration, and of those Company contributes.*
 
+![](https://github.com/DirkMueller8/valuation/blob/master/snapshot_2.png)
+
+*Fig 3: Snapshot of source code that processes one particular type of input and takes care of sanity checks.*
+
 After filling in yet another form all the data will be stored in an Excel worksheet for further processing.
